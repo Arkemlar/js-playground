@@ -1,0 +1,8 @@
+{
+    "codeswing.rootDirectory": "codeswing",
+    "codeswing.showConsole": true,
+    "codeswing.layout": "preview",
+    "[javascript]": {
+        "editor.formatOnSave": true
+    }
+}

@@ -1,6 +1,7 @@
 {
     "recommendations": [
-        "codespaces-contrib.codeswing",
-        "esbenp.prettier-vscode"
+        // "codespaces-contrib.codeswing",
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint"
     ]
 }
