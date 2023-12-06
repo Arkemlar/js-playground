@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "codespaces-contrib.codeswing",
+        "esbenp.prettier-vscode"
+    ]
+}
